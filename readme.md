@@ -20,7 +20,10 @@ Step 6 : Clear all cache and configuration using command :<br>
         
 Step 7 : Run the application using command :<br>
         <b>php artisan serve</b>
+   
+Step 7 : Access the application on browser using below url :<br>
+        <b>http://localhost:8000</b>   
         
-Step 8 : Start using the application By below credentials :<br>
+Step 9 : Start using the application By below credentials :<br>
         <b>email : admin@admin.com</b><br>
     <b>password : admin</b>
