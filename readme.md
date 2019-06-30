@@ -1,7 +1,7 @@
 ## Installation Steps and Commands ##
 
 Step 1 : Clone repo in root directory using below command <br>
-    <b>git clone https://github.com/Cheta9442/EmployeeManagment.git
+    <b>git clone https://github.com/Cheta9442/EmployeeManagment.git</b>
     
 Step 2 : Install composer (Run only if the vendor folder is miising after cloning)<br>
     <b>composer install </b>
